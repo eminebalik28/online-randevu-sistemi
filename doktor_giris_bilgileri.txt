@@ -1,0 +1,123 @@
+DOKTOR GİRİŞ BİLGİLERİ
+=======================
+
+Doktor: Ahmet Yılmaz
+Uzmanlık: Kardiyoloji
+Kullanıcı Adı: ahmetyilmaz
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Ayşe Demir
+Uzmanlık: Kardiyoloji
+Kullanıcı Adı: aysedemir
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Mehmet Kaya
+Uzmanlık: Ortopedi
+Kullanıcı Adı: mehmetkaya
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Fatma Şahin
+Uzmanlık: Dahiliye
+Kullanıcı Adı: fatmasahin
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Ali Can
+Uzmanlık: Göz Hastalıkları
+Kullanıcı Adı: alican
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Zeynep Çelik
+Uzmanlık: KBB
+Kullanıcı Adı: zeynepcelik
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Burak Yılmaz
+Uzmanlık: Nöroloji
+Kullanıcı Adı: burakyilmaz
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Elif Öztürk
+Uzmanlık: Cildiye
+Kullanıcı Adı: elifozturk
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Caner Aslan
+Uzmanlık: Üroloji
+Kullanıcı Adı: caneraslan
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Gizem Yıldız
+Uzmanlık: Psikiyatri
+Kullanıcı Adı: gizemyildiz
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Oğuzhan Koç
+Uzmanlık: Diş Hekimliği
+Kullanıcı Adı: oguzhankoc
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Merve Nur
+Uzmanlık: Çocuk Sağlığı
+Kullanıcı Adı: mervenur
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Kemal Sunal
+Uzmanlık: Genel Cerrahi
+Kullanıcı Adı: kemalsunal
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Eda Ece
+Uzmanlık: Fizik Tedavi
+Kullanıcı Adı: edaece
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Büşra Pekin
+Uzmanlık: Beslenme ve Diyet
+Kullanıcı Adı: busrapekin
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Haluk Bilginer
+Uzmanlık: Göğüs Hastalıkları
+Kullanıcı Adı: halukbilginer
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Gülse Birsel
+Uzmanlık: Onkoloji
+Kullanıcı Adı: gulsebirsel
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Beren Saat
+Uzmanlık: Kadın Doğum
+Kullanıcı Adı: berensaat
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Kıvanç Tatlıtuğ
+Uzmanlık: Plastik Cerrahi
+Kullanıcı Adı: kivanctatlitug
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Serenay Sarıkaya
+Uzmanlık: Ortodonti
+Kullanıcı Adı: serenaysarikaya
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Tolga Çevik
+Uzmanlık: Romatoloji
+Kullanıcı Adı: tolgacevik
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Demet Evgar
+Uzmanlık: Hematoloji
+Kullanıcı Adı: demetevgar
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Çağatay Ulusoy
+Uzmanlık: Endokrinoloji
+Kullanıcı Adı: cagatayulusoy
+Şifre: 1234 (Varsayılan)
+------------------------------
+Doktor: Fahriye Evcen
+Uzmanlık: Gastroenteroloji
+Kullanıcı Adı: fahriyeevcen
+Şifre: 1234 (Varsayılan)
+------------------------------
